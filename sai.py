@@ -179,4 +179,4 @@ except Exception:
 
 finally:
     connection.close()
-    print("\nDatabase connection closed!")
+    print("\nDatabase connection closed! Thank you for using the Patient Data Importer.")
